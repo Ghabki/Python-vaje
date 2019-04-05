@@ -1,0 +1,13 @@
+{
+  "hwehwe.py::Test07::test_01_navodila": true,
+  "hwehwe.py::Test08::test_01_prevozi": true,
+  "hwehwe.py::Test09::test_01_sosedi": true,
+  "hwehwe.py::Test09::test_02_razdalja": true,
+  "hwehwe.py::Test10::test_01_najkrajsa_pot": true,
+  "testi.py::Test06::test_03_hamiltonova": true,
+  "testi.py::Test07::test_01_navodila": true,
+  "testi.py::Test08::test_01_prevozi": true,
+  "testi.py::Test09::test_01_sosedi": true,
+  "testi.py::Test09::test_02_razdalja": true,
+  "testi.py::Test10::test_01_najkrajsa_pot": true
+}
