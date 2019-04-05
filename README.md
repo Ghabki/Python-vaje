@@ -2,4 +2,4 @@
 
 
 
-Vaje niso lepo rešene, bile so za se ulit
+Vaje niso lepo rešene, bile so za se učit
